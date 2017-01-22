@@ -14,9 +14,9 @@ but not required.
 
 There are a number of books on the topic on manual injection molding machines:
 
-* [https://www.amazon.com/Secrets-Building-Plastic-Injection-Molding-ebook/dp/B018RBEZKE/ref=sr_1_1]
-  [*Secrets of Building a Plastic Injection Molding Machine*] by Vincent R. Gingery.
-  Copyright 1997.  ISBN 1-878087-19-3:
+* [*Secrets of Building a Plastic Injection Molding Machine*]
+  [https://www.amazon.com/Secrets-Building-Plastic-Injection-Molding-ebook/dp/B018RBEZKE/ref=sr_1_1]
+  by Vincent R. Gingery.  Copyright 1997.  ISBN 1-878087-19-3:
   This is probably the original book about the topic of home injection molding machines.
   It is a bit dated, but definitely worth a quick read.
 
@@ -33,7 +33,7 @@ add them to the list below:
 
 ### Morgan Industries, Inc.
 
-[http://www.morganindustriesinc.com][Morgan Industries, Inc.] produces
+[Morgan Industries, Inc.][http://www.morganindustriesinc.com] produces
 a set of bench top machines call the Morgan-press.  By the way, the
 Morgan-Press is the benchtop injection molding machine used by Techshop.
 
