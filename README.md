@@ -14,14 +14,15 @@ but not required.
 
 There are a number of books on the topic on manual injection molding machines:
 
-* [*Secrets of Building a Plastic Injection Molding Machine*]
-  [https://www.amazon.com/Secrets-Building-Plastic-Injection-Molding-ebook/dp/B018RBEZKE/ref=sr_1_1]
-  by Vincent R. Gingery.  Copyright 1997.  ISBN 1-878087-19-3:
+* [*Secrets of Building a Plastic Injection Molding Machine*](
+  https://www.amazon.com/Secrets-Building-Plastic-Injection-Molding-ebook/dp/B018RBEZKE/ref=sr_1_1):
+
   This is probably the original book about the topic of home injection molding machines.
   It is a bit dated, but definitely worth a quick read.
 
-* [https://www.amazon.com/Cutting-short-run-plastics-injection-molding/dp/B0006VV79G/ref=sr_1_1][
-  *Cutting costs in short-run plastics injection modding*]:
+* [*Cutting costs in short-run plastics injection modding*](
+  https://www.amazon.com/Cutting-short-run-plastics-injection-molding/dp/B0006VV79G/ref=sr_1_1):
+
   This book focuses on the trade-offs for making lower cost molds for these manual
   bench  top machine.  This is a book is by Morgan Industries, Inc. and is geared
   towards their line of bench top molding machines.
@@ -33,7 +34,7 @@ add them to the list below:
 
 ### Morgan Industries, Inc.
 
-[Morgan Industries, Inc.][http://www.morganindustriesinc.com] produces
+[Morgan Industries, Inc.](http://www.morganindustriesinc.com) produces
 a set of bench top machines call the Morgan-press.  By the way, the
 Morgan-Press is the benchtop injection molding machine used by Techshop.
 
@@ -41,19 +42,21 @@ At present, I find the Morgan Industries web site to be a bit difficult
 to navigate, so I have added some links that probe into their web-site.
 Presumably, these links will break over time:
 
-* The [http://www.morganindustriesinc.com/g-models/][Morgan-Press models].
+* The Morgan-Press [models](http://www.morganindustriesinc.com/g-models/).
 
-* The [http://www.morganindustriesinc.com/injection-molding-machine-features/][Morgan-Press Models].
+* The Morgan-Press [features](
+  http://www.morganindustriesinc.com/injection-molding-machine-features/).
 
-* They also sell [http://www.morganindustriesinc.com/plastic-molding-guide/][a mold book].
+* They also sell
+  [a book about mold making( http://www.morganindustriesinc.com/plastic-molding-guide/).
   This is referenced above in the books section.
 
-* There are a couple of videos:
-    [https://www.youtube.com/watch?v=dyfNkzi0RpA][video1] and
-    [https://www.youtube.com/watch?v=OneSFRR3CQw][video2].
+* There are a couple of videos --
+    [video1](https://www.youtube.com/watch?v=dyfNkzi0RpA) and
+    [video2](https://www.youtube.com/watch?v=OneSFRR3CQw).
 
-* There is a [http://www.cs.cmu.edu/~rapidproto/manufacturing/MP_Manual.pdf][PDF Manual]
-  on-line at Carnegie-Mellon University (my undergraduate alma mater.)
+* There is a [PDF Manual](http://www.cs.cmu.edu/~rapidproto/manufacturing/MP_Manual.pdf)
+  on-line at Carnegie Mellon University (my undergraduate alma mater.)
 
 These machines clamp the mold from the bottom.
 
@@ -66,11 +69,11 @@ The Amatrol learning system looks pretty decent.
 
 Here are some links:
 
-* [http://www.amatrol.com/coursepage/96-pls1-t/][Amatrol PLS1] is the actual machine.
+* [Amatrol PLS1](http://www.amatrol.com/coursepage/96-pls1-t/) is the actual machine.
 
 
-* The [http://www.lcis.com.tw/paper_store/paper_store/price-2014121114290281.pdf]
-  [Amatrol 2017 Price List].
+* The [Amatrol 2017 Price List](
+  http://www.lcis.com.tw/paper_store/paper_store/price-2014121114290281.pdf).
 
 This machine clamps the mold from the side.
 
@@ -78,8 +81,11 @@ About $15K.
 
 ### Medium Machinery
 
-[http://www.mediummachinery.com/][Medium Machinery] makes an very capable
+[Medium Machinery](http://www.mediummachinery.com/) makes an very capable
 looking injection molder.  The web site is very easy to navigate.
+
+About $3K.  This is a lot of machine for $3K.
+
 This machine clamps the mold from the bottom.
 
 ### Iasco-Tesco
@@ -88,23 +94,31 @@ It is unclear if Iasco-Tesco is still in business.  Hopefully, there are just
 rearranging their web site.
 
 There is several year old
-[http://web.archive.org/web/20150213095804/http://iasco-tesco.com/images/catalog/iasco2013.pdf]
-[catalog for Iasoc-Tesco].  The Ultron looks pretty neat.
+[catalog for Iasoc-Tesco](
+http://web.archive.org/web/20150213095804/http://iasco-tesco.com/images/catalog/iasco2013.pdf].
+The Ultron looks pretty neat.
+
+This machine clamps the mold from the side.
 
 ### A.B. Plastic Injectors
 
-[http://www.abplasticinjectors.com/][A.B. Plastic Injectors]
+[A.B. Plastic Injectors](http://www.abplasticinjectors.com/)
 
 No on-line prices.
 
 ### Galomb, Inc.
 
-[http://injectionmolder.net/][Galomb, Inc.] sells an injection molder for about $4K.
+[Galomb, Inc.](http://injectionmolder.net/) sells an injection molder for about $4K.
 
-## Wayne's Thoughts
+## Build a Machine from Scratch?
 
-Of all of the ones above, the one from Medium Machinery looks closest
-to what I have in mind.
+Whenever I do research like this I generally do a buy vs. build investigation.
+The machine I really like is the Morgan-Press, but it is way out of my price
+range.  The next machine I really like is the Amatrol, which is out of my price
+range.  The next machine I like is the Medium Machinery and the price is well
+within my range, my only reservation is that the shot size is only 2oz, but I
+think I might need 4oz.  Of all of the ones above, the one from Medium Machinery
+looks closest to what I have in mind.
 
 To summarize, a manual injection machine has four basic parts:
 
@@ -127,8 +141,9 @@ Each of these is parts is discussed briefly in the  sections below
 ### Frame
 
 My current thoughts on a frame are to use some
-[https://www.lowes.com/pd/Steelworks-6-ft-x-2-1-4-in-Plated-Steel-Slotted-Angle/3057635]
-[Steel Slotted Angle] for most of the frame.  It may be necessary to double or triple
+[Steel Slotted Angle](
+https://www.lowes.com/pd/Steelworks-6-ft-x-2-1-4-in-Plated-Steel-Slotted-Angle/3057635)
+for most of the frame.  It may be necessary to double or triple
 up on some of the high force sections of the frame.  This seems like a flexible
 to design a system where sub-modules can be moved up and down by unbolting some
 bolts and reattaching in the new location.
@@ -175,20 +190,20 @@ I would probably buy a couple of 400W cartidge heaters from McMaster Carr
 design them to be on each side of the injector shaft bore.
 
 In an article from
-[http://makezine.com/][Makezine] there is an
-[http://makezine.com/projects/make-41-tinkering-toys/diy-injection-molding/][article]
+[Makezine](http://makezine.com/) there is an
+[article](http://makezine.com/projects/make-41-tinkering-toys/diy-injection-molding/)
 from somebody who modified their Gingery injection molding machine
 to use a PID controller.  The person used a PID controller from
-[http://www.auberins.com/][Auber Instruments].  It looks like the
-[http://www.auberins.com/index.php?main_page=product_info&cPath=1&products_id=83][SYL-1612B]
+[Auber Instruments](http://www.auberins.com/).  It looks like the
+[SYL-1612B](http://www.auberins.com/index.php?main_page=product_info&cPath=1&products_id=83)
 what was selected.  I would be tempted to use the same product and a
 couple of 10A 240VAC Solid State Relays.
 
 I believe it would be best if there was some insulation wrapped around
 the heater block.  This was done in an
-[http://www.instructables.com/][instructables]
+[instructables](http://www.instructables.com/)
 document for a
-[http://www.instructables.com/id/Plastic-injection-molding-and-extruding/][filament extruder].
+[filament extruder](http://www.instructables.com/id/Plastic-injection-molding-and-extruding/).
 In addition, a protection cage to keep fingers from touching the melter system
 makes some sense as well.
 
@@ -212,8 +227,8 @@ tend to be expensive.  I thought it was totally ingenious how Medium Machinery
 used a simple bottle jack for their clamp holder.  Bottle jacks are inexpensive.
 When I looked up bottle jacks on Harbor Freight, I found two almost identical
 20 ton air hydraulic bottle jacks -- 
-[http://www.harborfreight.com/20-ton-air-over-hydraulic-jack-95553.html][#95553] and
-[http://www.harborfreight.com/20-ton-air-hydraulic-bottle-jack-69593.html][#69593].
+[#95553](http://www.harborfreight.com/20-ton-air-over-hydraulic-jack-95553.html) and
+[#69593](http://www.harborfreight.com/20-ton-air-hydraulic-bottle-jack-69593.html).
 (The only difference is where the air hose attaches to the air motors.)
 These behave just like the hand pumped jack use by Medium Machinery except
 that they can be pumped with air pressure rather than a manual pump level.
@@ -235,4 +250,4 @@ on the project and push it forward some more.
 # Acknowledgments
 
 I would like to acknowledge that I have gotten some *very* useful information from the Yahoo
-[https://groups.yahoo.com/neo/groups/homeinjectionmolding/info][Home Home injection Molding Group].
+[Home Home injection Molding Group](https://groups.yahoo.com/neo/groups/homeinjectionmolding/info).
